@@ -8,6 +8,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-b2e619?style=glat-square&logoColor=white"/ ></a>&nbsp
 <img src="https://img.shields.io/badge/Html-E34F26?style=glat-square&logoColor=white"/ ></a>&nbsp
+<img src="https://img.shields.io/badge/Javascript-E34F26?style=glat-square&logoColor=white"/ ></a>&nbsp
 
 <!--
 **ovovvvvv/ovovvvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
