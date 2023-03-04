@@ -1,8 +1,6 @@
-### Hi there 👋
 
- # Hi I'm Jin Yoo 🐣
- 
- 🌱 Study -ing 🌱 
+
+ # Hi I'm Jin Yoo
  
 <h3 align="center"> 💙 Tech Stack 💙 </h3>
 <p align="center">
