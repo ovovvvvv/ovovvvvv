@@ -1,6 +1,6 @@
 
 
- # Hi I'm Jin Yoo
+ # FE Developer
  
 <h3 align="center"> 💙 Tech Stack 💙 </h3>
 <p align="center">
@@ -9,8 +9,7 @@
 <img src="https://img.shields.io/badge/Javascript-E34F26?style=glat-square&logoColor=white"/ ></a>&nbsp
 <img src="https://img.shields.io/badge/React-61DAFB?style=glat-square&logoColor=white"/ ></a>&nbsp
 
-#### My Growing Space
-#### Enjoy Process 💛
+
 
 
 <!--
