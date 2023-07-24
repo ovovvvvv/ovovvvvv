@@ -21,6 +21,4 @@
   <br>
 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-
-  [![Yoo jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovovvvvv)](https://github.com/ovovvvvv/github-readme-stats)
 </div>
